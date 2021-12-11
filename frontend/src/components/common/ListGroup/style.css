@@ -1,0 +1,12 @@
+.list-item {
+  text-align: left;
+  background: #000000;
+  color: white;
+  font-size: 14px;
+}
+
+.list-item-active {
+  border-left-color: rgb(0, 0, 0);
+  border-left-width: 2px;
+  transition: 0.3s ease-in;
+}
